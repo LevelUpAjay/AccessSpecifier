@@ -1,0 +1,12 @@
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.exe.config
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.exe
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.pdb
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.exe
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.pdb
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.exe.config
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.exe
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\bin\Debug\AccessDemo1.pdb
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.csproj.AssemblyReference.cache
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.csproj.CoreCompileInputs.cache
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.exe
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo1\obj\Debug\AccessDemo1.pdb
