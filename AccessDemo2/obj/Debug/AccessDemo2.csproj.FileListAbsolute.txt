@@ -1,0 +1,19 @@
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.exe.config
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.exe
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.pdb
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo1.exe
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo1.pdb
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.csprojResolveAssemblyReference.cache
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.exe
+D:\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.pdb
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.exe.config
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.exe
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo2.pdb
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo1.exe
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo1.pdb
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\bin\Debug\AccessDemo1.exe.config
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.csproj.AssemblyReference.cache
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.csproj.CoreCompileInputs.cache
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDe.7D332058.Up2Date
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.exe
+C:\Users\ajayr\OneDrive\Desktop\External HD\AJAY FILES\2021 Program Practice\AccessSpecifierDemo\AccessDemo2\obj\Debug\AccessDemo2.pdb
